@@ -1,13 +1,15 @@
-## Hi there 👋
+## Hi there 👋!! I'm Monica.#
+#**A passionate software developer from India**#
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cartoon-girl-sitting-table-with-laptop-computer_988987-11526.jpg?w=360" />
 # 💫 About Me:
 - 🔭 I’m currently working on real-time traffic light detection app in Flutter
 - 🌱 I’m currently learning data analysis and machine learning libraries
 - 👯 I’m looking to collaborate on AI projects and contributing to open-source initiatives
 - 📫 How to reach me:
-        Email: monicasathiyamoorthy29@gmail.com
-        LinkedIn: [linkedin.com/in/monica-sathiyamoorthy-295538255](https://www.linkedin.com/in/monica-sathiyamoorthy-295538255/)
-        GitHub: [github.com/Monica2983](https://github.com/Monica2983)
+        -> Email: monicasathiyamoorthy29@gmail.com
+        -> LinkedIn: [linkedin.com/in/monica-sathiyamoorthy-295538255](https://www.linkedin.com/in/monica-sathiyamoorthy-295538255/)
+        -> GitHub: [github.com/Monica2983](https://github.com/Monica2983)
 - ⚡ Fun fact: I’m a space enthusiast! If you could travel at the speed of light, it would still take over 4 years to reach the nearest star, Proxima Centauri!
 
 # 💻 Tech Stack:
