@@ -1,7 +1,6 @@
-## Hi there 👋!! I'm Monica.#
-#**A passionate software developer from India**#
+## Hi there 👋!! I'm Monica.##
+##A passionate software developer from India##
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cartoon-girl-sitting-table-with-laptop-computer_988987-11526.jpg?w=360" />
 # 💫 About Me:
 - 🔭 I’m currently working on real-time traffic light detection app in Flutter
 - 🌱 I’m currently learning data analysis and machine learning libraries
